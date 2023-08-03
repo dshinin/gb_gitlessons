@@ -20,3 +20,8 @@
 3. Выполнить **git init** для инициализации локального репозитория
 4. Добавить файлы выполнив **git add filemane.ext** 
 5. Создать коммит выполнив **git commit -m “message”**
+
+### Дополнительные материалы
++ [Git для новичков (часть 1)](https://habr.com/ru/articles/541258/)
++ [Git для новичков (часть 2)](https://habr.com/ru/articles/542616/)
++ [Руководство по оформлению Markdown файлов](https://gist.github.com/Jekins/2bf2d0638163f1294637)
